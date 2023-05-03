@@ -1,0 +1,30 @@
+.slick {
+    height: auto;
+    margin: 0 !important;
+  }
+  
+  .slick-slide {
+    /* width: 371px !important; */
+    margin-right: 19px;
+  }
+  
+  .slick .slick-prev:before,
+  .slick .slick-next:before {
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.59);
+  }
+  
+  .slick .slick-arrow {
+    z-index: 99;
+  }
+  
+  .slick .slick-arrow.slick-prev {
+    left: 0px;
+    top: 278px;
+  }
+  
+  .slick .slick-arrow.slick-next {
+    right: 40px;
+    top: 278px;
+  }
+  
